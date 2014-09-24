@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item
+            android:id="@+id/some_other_menu_id"
+            android:title="@string/media_route_menu_title"
+            android:icon="@drawable/ic_launcher"
+            app:showAsAction="always"/>
+</menu>

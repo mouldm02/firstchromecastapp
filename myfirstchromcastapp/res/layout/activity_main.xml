@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              tools:context="uk.co.bbc.cast.android.sample.MainActivity"
+              android:weightSum="1">
+
+    <EditText
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/matt_text_edit_text"
+            android:layout_weight="0.11"
+            android:focusableInTouchMode="true"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Send text"
+            android:id="@+id/matt_button"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.11"/>
+</LinearLayout>

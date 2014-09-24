@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myfirstchromcastapp</string>
+    <string name="media_route_menu_title">matt_route_menu</string>
+    <string name="app_id">EEB0C926</string>
+    <string name="instructions">Type summut in</string>
+    <string name="namespace">urn:x-cast:com.google.cast.sample.helloworld</string>
+
+</resources>
